@@ -17,7 +17,11 @@ To map over a list and create a feature collection by passing null geometry to e
 To export the feature collection as CSV_
 *  [GEE LINK](https://code.earthengine.google.com/769461662101ec1173bea03ddf4df12d) 
 *  [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/FC_to_CSV.js) 
-*  [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/FC_to_CSV.png)  
+*  [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/FC_to_CSV.png)
+*   [CSV_1](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/BOALKHALI_selected_CSV.csv)
+*   [CSV_2](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/FeatureCollectionOfList_to_CSV.csv)
+
+
 
 ## Exporting a Clipped Image from Google Earth Engine:
 We made a LULC map of Boalkhali using the ee.ImageCollection class to access the dataset, apply a clipping region using a geometry, and then exported the clipped image to Google Drive.We used ESA WorldCover dataset.
