@@ -20,5 +20,5 @@ To export the feature collection as CSV_
 *  [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/FC_to_CSV.png)  
 
 ## Exporting a Clipped Image from Google Earth Engine:
-We used the ee.ImageCollection class to access the dataset, apply a clipping region using a geometry, and then exported the clipped image to Google Drive.
+We made a LULC map of Boalkhali using the ee.ImageCollection class to access the dataset, apply a clipping region using a geometry, and then exported the clipped image to Google Drive.We used ESA WorldCover dataset.
 *   [IMAGE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-7/blob/main/Boalkhali%20LULC.png)
